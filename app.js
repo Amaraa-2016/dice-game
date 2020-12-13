@@ -77,4 +77,5 @@ function GameNew()
     document.getElementById("current-0").textContent = 0;
     document.getElementById("current-0").textContent = 0;
     diceDom.style.display = "none";
+    
 }
